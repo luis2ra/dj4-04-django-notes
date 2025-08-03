@@ -1,3 +1,25 @@
-venv
-__pycache__
+# Entornos virtuales
+venv/
+.venv/
+
+# PyCache
+__pycache__/
+*.pyc
+*.pyo
+
+# Base de datos
 db.sqlite3
+*.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
