@@ -1,0 +1,7 @@
+asgiref
+autopep8
+# backports.zoneinfo
+Django==4.2.4
+pycodestyle
+sqlparse
+toml
